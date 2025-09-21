@@ -29,7 +29,7 @@ The goal of this dashboard is to analyze **sales performance, profit trends, cus
 ![Amazon Sales Dashboard](https://drive.google.com/file/d/1dx5BCvBU2tOgggBBRjT3i7OiAaxqGxd3/view?usp=sharing)
 
 ## 🔹 Live Dashboard
-👉 [View Dashboard on Power BI Service]((https://vitapacin-my.sharepoint.com/:u:/g/personal/sukitha_22bce9927_vitapstudent_ac_in/EZkNtvcKQGJFiUysTY990rsBfqD3qcXdQSHaxi9o2RfNBQ))
+👉 [View Dashboard on Power BI Service](https://vitapacin-my.sharepoint.com/:u:/g/personal/sukitha_22bce9927_vitapstudent_ac_in/EZkNtvcKQGJFiUysTY990rsBfqD3qcXdQSHaxi9o2RfNBQ)
 
 ## 🔹 Tools Used
 - **Power BI Desktop** – Data visualization and dashboard creation  
